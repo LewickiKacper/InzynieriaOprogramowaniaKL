@@ -1,1 +1,2 @@
 "To jest inny plik" 
+"Nowy wpis w info.txt" 
